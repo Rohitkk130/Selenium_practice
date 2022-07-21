@@ -84,6 +84,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFile>IRCTCtest.xml</suiteXmlFile>
+                        <suiteXmlFile>IRCTCtest.xml</suiteXmlFile>
                         <!-- <suiteXmlFile>testng_crossBrowserTesting_parallel.xml</suiteXmlFile> -->
                     </suiteXmlFiles>
                 </configuration>
